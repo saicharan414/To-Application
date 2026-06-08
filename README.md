@@ -18,10 +18,6 @@ https://charantodo12.ccbp.tech/
 * Delete tasks
 * Mark tasks as completed
 
-## ⚠️ Known Issues
 
-* **Delete Functionality**: Tasks cannot be deleted when new tasks are added. This is a pending bug fix that needs to be resolved.
 
-## 🐛 Bug Reports
 
-If you encounter any issues, please feel free to report them by creating an issue in the repository.
