@@ -10,6 +10,7 @@ https://charantodo12.ccbp.tech/
 
 * Built as part of learning web development
 * Helps manage daily tasks
+* CRUD Operations
 
 ## 🚀 Features
 
