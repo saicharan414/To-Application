@@ -1,18 +1,18 @@
-# 📝 Todo Application
+#  To-do Application
 
 This is a simple Todo App project.
 
-## 🔗 Live Demo
+##  Live Demo
 
 https://charantodo12.ccbp.tech/
 
-## 💡 About
+##  About
 
 * Built as part of learning web development
 * Helps manage daily tasks
 * CRUD Operations
 
-## 🚀 Features
+##  Features
 
 * Add tasks
 * Delete tasks
@@ -20,4 +20,5 @@ https://charantodo12.ccbp.tech/
 
 
 
-
+##  Skills
+HTML, CSS, JavaScript, Bootstrap
